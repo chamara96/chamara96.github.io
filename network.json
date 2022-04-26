@@ -1,0 +1,532 @@
+{
+    "networks": [
+      {
+        "id": "8a63b5c1-d270-4476-a2e1-b001eadc0f8b",
+        "name": "Mobi-London",
+        "location": {
+          "latitude": 51.5072209,
+          "longitude": -0.1335897
+        },
+        "regions": [
+          {
+            "id": "f5b3bfdd-cbb3-476b-b76f-7226730f6926",
+            "name": "L-R2",
+            "location": {
+              "latitude": 51.7394832,
+              "longitude": 0.5152976
+            },
+            "towers": [
+              {
+                "id": "c32921ae-2edd-4116-9ebb-6ef56c11b452",
+                "name": "L-R2T2",
+                "location": {
+                  "latitude": 51.9287057,
+                  "longitude": 0.7142227
+                },
+                "radius": 12
+              },
+              {
+                "id": "d25db82f-0411-4557-86e2-008fc1c26ff5",
+                "name": "L-R2T4",
+                "location": {
+                  "latitude": 51.678251,
+                  "longitude": 0.1264816
+                },
+                "radius": 9
+              },
+              {
+                "id": "a76a80e1-4185-425d-b6ed-5fa563ef57f0",
+                "name": "L-R2T3",
+                "location": {
+                  "latitude": 51.593814,
+                  "longitude": 0.5576675
+                },
+                "radius": 11
+              },
+              {
+                "id": "a05f2e88-56be-4508-9bf3-50f8bc256db7",
+                "name": "L-R2T1",
+                "location": {
+                  "latitude": 51.9287057,
+                  "longitude": 0.3599136
+                },
+                "radius": 11
+              }
+            ]
+          },
+          {
+            "id": "72dfb1a9-f9c9-40c9-957f-4775f34cc50a",
+            "name": "L-R4",
+            "location": {
+              "latitude": 51.2338092,
+              "longitude": -0.5792263
+            },
+            "towers": [
+              {
+                "id": "08649693-1115-42da-b9e0-b6043981a964",
+                "name": "L-R4T1",
+                "location": {
+                  "latitude": 51.0896016,
+                  "longitude": -0.2003508
+                },
+                "radius": 12
+              },
+              {
+                "id": "d53a7ba3-fd24-43e1-870b-0668c6af3fa5",
+                "name": "L-R4T2",
+                "location": {
+                  "latitude": 51.0343642,
+                  "longitude": -0.9117155
+                },
+                "radius": 17
+              },
+              {
+                "id": "fbb678de-bd04-4ff3-8df4-3ddc34f19b5f",
+                "name": "L-R4T3",
+                "location": {
+                  "latitude": 51.3459336,
+                  "longitude": -0.9858732
+                },
+                "radius": 16
+              },
+              {
+                "id": "ba8b7fe6-c0a9-45fd-8d57-e50737740648",
+                "name": "L-R4T4",
+                "location": {
+                  "latitude": 51.4384803,
+                  "longitude": -0.5381804
+                },
+                "radius": 10
+              }
+            ]
+          },
+          {
+            "id": "26ceaa31-8b7a-46a1-841d-d9d7ff429939",
+            "name": "L-R3",
+            "location": {
+              "latitude": 51.3111331,
+              "longitude": 0.417783
+            },
+            "towers": [
+              {
+                "id": "ad143556-8b70-4a50-a9e2-921eb8680cae",
+                "name": "L-R3T2",
+                "location": {
+                  "latitude": 51.1127377,
+                  "longitude": 0.3929001
+                },
+                "radius": 10
+              },
+              {
+                "id": "5cf0c8a3-07f3-455a-b0fc-dc86fb2cddb9",
+                "name": "L-R3T3",
+                "location": {
+                  "latitude": 51.271099,
+                  "longitude": 0.0413376
+                },
+                "radius": 11
+              },
+              {
+                "id": "f28d5ee2-601b-4031-9543-629c29d57a90",
+                "name": "L-R3T1",
+                "location": {
+                  "latitude": 51.3037363,
+                  "longitude": 0.8735519
+                },
+                "radius": 15
+              },
+              {
+                "id": "a5704cf4-79a0-44af-ba02-1c9b64994e01",
+                "name": "L-R3T4",
+                "location": {
+                  "latitude": 51.4717077,
+                  "longitude": 0.2638107
+                },
+                "radius": 8
+              }
+            ]
+          },
+          {
+            "id": "3c040037-0f87-431f-b615-72fdf9741c17",
+            "name": "L-R1",
+            "location": {
+              "latitude": 51.892295,
+              "longitude": -0.2098
+            },
+            "towers": [
+              {
+                "id": "3dd51ba1-bacb-4c6f-b0c8-4ece7d713bf5",
+                "name": "L-R1T3",
+                "location": {
+                  "latitude": 52.0588954,
+                  "longitude": 0.0212601
+                },
+                "radius": 10
+              },
+              {
+                "id": "b0faca47-685d-4b57-bc78-16304c1b22b2",
+                "name": "L-R1T2",
+                "location": {
+                  "latitude": 52.1044681,
+                  "longitude": -0.2836105
+                },
+                "radius": 10
+              },
+              {
+                "id": "d128bfc7-1b3f-453e-ab42-c75ddeb348c3",
+                "name": "L-R1T4",
+                "location": {
+                  "latitude": 51.8778346,
+                  "longitude": 0.1448563
+                },
+                "radius": 10
+              },
+              {
+                "id": "7eddcbfd-d658-4ee7-8699-668fb526b964",
+                "name": "L-R1T1",
+                "location": {
+                  "latitude": 51.9117333,
+                  "longitude": -0.5610153
+                },
+                "radius": 10
+              }
+            ]
+          },
+          {
+            "id": "b2875049-aa61-415d-8588-50fd274c4956",
+            "name": "L-R5",
+            "location": {
+              "latitude": 51.6634452,
+              "longitude": -0.9043797
+            },
+            "towers": [
+              {
+                "id": "89fedf6a-749e-4492-accd-644cde19b515",
+                "name": "L-R5T1",
+                "location": {
+                  "latitude": 51.6144858,
+                  "longitude": -1.3017302
+                },
+                "radius": 20
+              },
+              {
+                "id": "16aa4115-47b9-4267-af9f-b66c8f6bd0bf",
+                "name": "L-R5T2",
+                "location": {
+                  "latitude": 51.8746761,
+                  "longitude": -1.2001066
+                },
+                "radius": 12
+              },
+              {
+                "id": "2ae1351e-5356-4a00-a11c-268663ba8962",
+                "name": "L-R5T3",
+                "location": {
+                  "latitude": 51.8305664,
+                  "longitude": -0.810092
+                },
+                "radius": 8
+              },
+              {
+                "id": "1764b520-df12-4346-81de-eafd7bfd7ad1",
+                "name": "L-R5T4",
+                "location": {
+                  "latitude": 51.6707321,
+                  "longitude": -0.4832487
+                },
+                "radius": 12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d5c369be-0982-471c-b5f9-968fddf381b9",
+        "name": "Tele-Birmingham",
+        "location": {
+          "latitude": 52.4865131,
+          "longitude": -1.8945747
+        },
+        "regions": [
+          {
+            "id": "45fd1c70-f385-403c-9934-3e258719576b",
+            "name": "B-R1",
+            "location": {
+              "latitude": 52.4993288,
+              "longitude": -0.6841102
+            },
+            "towers": [
+              {
+                "id": "dcde9249-0776-4f75-98e2-041225f545d4",
+                "name": "B-R1T3",
+                "location": {
+                  "latitude": 52.2176254,
+                  "longitude": -0.5866414
+                },
+                "radius": 13
+              },
+              {
+                "id": "2e2b4a99-4aa7-4028-bad7-f6c57a3b23e3",
+                "name": "B-R1T4",
+                "location": {
+                  "latitude": 52.6463184,
+                  "longitude": -1.3007527
+                },
+                "radius": 10
+              },
+              {
+                "id": "dcb97dd6-e510-40eb-b7fd-91785efb29d3",
+                "name": "B-R1T2",
+                "location": {
+                  "latitude": 52.4888486,
+                  "longitude": -0.0826761
+                },
+                "radius": 16
+              },
+              {
+                "id": "f22563f8-4de3-4e21-98df-6f7d27ca24c2",
+                "name": "B-R1T1",
+                "location": {
+                  "latitude": 52.7822888,
+                  "longitude": -0.6044023
+                },
+                "radius": 14
+              }
+            ]
+          },
+          {
+            "id": "a28fae1a-0abf-48b0-ac35-3a404b02c198",
+            "name": "B-R4",
+            "location": {
+              "latitude": 52.9699045,
+              "longitude": -2.6988717
+            },
+            "towers": [
+              {
+                "id": "c8d081ce-ac7a-4af4-a3a0-3e1c05a09fc7",
+                "name": "B-R4T1",
+                "location": {
+                  "latitude": 52.8008717,
+                  "longitude": -2.3302296
+                },
+                "radius": 15
+              },
+              {
+                "id": "e5d1f64b-7fb9-482e-9650-09e581f5c56a",
+                "name": "B-R4T2",
+                "location": {
+                  "latitude": 52.83407,
+                  "longitude": -3.1542042
+                },
+                "radius": 18
+              },
+              {
+                "id": "3e205c56-77a0-4fa5-ac61-7731e4e8c7bc",
+                "name": "B-R4T3",
+                "location": {
+                  "latitude": 53.2436248,
+                  "longitude": -2.4071339
+                },
+                "radius": 17
+              }
+            ]
+          },
+          {
+            "id": "ba078aa9-efa4-4736-a29b-ceeaee85660b",
+            "name": "B-R3",
+            "location": {
+              "latitude": 51.9998543,
+              "longitude": -2.3967476
+            },
+            "towers": [
+              {
+                "id": "b3b8c033-2666-4e2f-9154-0de9cf53327e",
+                "name": "B-R3T1",
+                "location": {
+                  "latitude": 51.7692175,
+                  "longitude": -2.686018
+                },
+                "radius": 16
+              },
+              {
+                "id": "10c1144d-90ab-4672-8aa9-bd1bd60ed9d2",
+                "name": "B-R3T2",
+                "location": {
+                  "latitude": 52.2864106,
+                  "longitude": -2.9070119
+                },
+                "radius": 21
+              }
+            ]
+          },
+          {
+            "id": "f7e1a4db-988b-4c91-8a2a-bbb2679d0f67",
+            "name": "B-R2",
+            "location": {
+              "latitude": 52.1646013,
+              "longitude": -1.4373383
+            },
+            "towers": [
+              {
+                "id": "d257473f-57a3-42cd-ae65-080ab397ebe2",
+                "name": "B-R2T1",
+                "location": {
+                  "latitude": 52.1906935,
+                  "longitude": -1.042574
+                },
+                "radius": 15
+              },
+              {
+                "id": "9cbb5af7-cb3e-45fa-9df9-071bcc63c1fe",
+                "name": "B-R2T3",
+                "location": {
+                  "latitude": 52.2781624,
+                  "longitude": -1.9819051
+                },
+                "radius": 19
+              },
+              {
+                "id": "5e68e2e3-a4fe-4887-a4fa-ccee4e46706e",
+                "name": "B-R2T2",
+                "location": {
+                  "latitude": 51.8831935,
+                  "longitude": -1.6907674
+                },
+                "radius": 25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "acdfe29c-01c6-496f-8aa6-02d73860975e",
+        "name": "FIber-Yeovil",
+        "location": {
+          "latitude": 50.9656347,
+          "longitude": -2.651602
+        },
+        "regions": [
+          {
+            "id": "622ccd8a-1408-4522-bf2c-90f383620d03",
+            "name": "F-R1",
+            "location": {
+              "latitude": 51.4573473,
+              "longitude": -2.5972621
+            },
+            "towers": [
+              {
+                "id": "645040a5-b6f3-4578-902e-fc8f0ee23a2e",
+                "name": "F-R1T1",
+                "location": {
+                  "latitude": 51.6765491,
+                  "longitude": -2.153641
+                },
+                "radius": 25
+              },
+              {
+                "id": "c9949382-a393-4403-aa9d-68a5756f6f8c",
+                "name": "F-R1T3",
+                "location": {
+                  "latitude": 51.3277712,
+                  "longitude": -2.2689975
+                },
+                "radius": 12
+              },
+              {
+                "id": "6000d941-d24b-49cb-b959-646a91e99691",
+                "name": "F-R1T2",
+                "location": {
+                  "latitude": 51.3243386,
+                  "longitude": -2.7908481
+                },
+                "radius": 15
+              }
+            ]
+          },
+          {
+            "id": "a29afa52-5e19-44b8-bd00-bd8eb18bb3ac",
+            "name": "F-R2",
+            "location": {
+              "latitude": 51.2068004,
+              "longitude": -1.5975063
+            },
+            "towers": [
+              {
+                "id": "6fed9213-7d93-4ccc-a49a-2338d182fc2e",
+                "name": "F-R2T2",
+                "location": {
+                  "latitude": 51.076515,
+                  "longitude": -1.2912143
+                },
+                "radius": 16
+              },
+              {
+                "id": "019782ba-7738-41c4-9414-71e3eb264a28",
+                "name": "F-R2T1",
+                "location": {
+                  "latitude": 51.5503401,
+                  "longitude": -1.6317904
+                },
+                "radius": 19
+              },
+              {
+                "id": "41a61068-c5a6-4b3b-bd78-3c0f8c3fe82f",
+                "name": "F-R2T3",
+                "location": {
+                  "latitude": 50.9936107,
+                  "longitude": -1.9339145
+                },
+                "radius": 18
+              }
+            ]
+          },
+          {
+            "id": "48fcae9f-5f97-45d5-b7d5-48df3532414f",
+            "name": "F-R3",
+            "location": {
+              "latitude": 50.7305844,
+              "longitude": -3.5295762
+            },
+            "towers": [
+              {
+                "id": "68144cbf-9872-4a5c-a335-38e19543c517",
+                "name": "F-R3T2",
+                "location": {
+                  "latitude": 50.9197196,
+                  "longitude": -3.0491146
+                },
+                "radius": 16
+              },
+              {
+                "id": "83e34cf8-3ce0-450f-a458-54b477edc915",
+                "name": "F-R3T1",
+                "location": {
+                  "latitude": 51.1097916,
+                  "longitude": -3.6533626
+                },
+                "radius": 14
+              },
+              {
+                "id": "d66ef9db-028f-4652-8879-77eccb394af6",
+                "name": "F-R3T3",
+                "location": {
+                  "latitude": 50.8365348,
+                  "longitude": -4.2301449
+                },
+                "radius": 12
+              },
+              {
+                "id": "bed4f55e-f338-4d62-92d5-fd1b19de542f",
+                "name": "F-R3T4",
+                "location": {
+                  "latitude": 50.4848368,
+                  "longitude": -3.7851986
+                },
+                "radius": 15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
